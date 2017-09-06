@@ -1,0 +1,54 @@
+h1 {
+    color: #345091;
+    background-color: gray;
+    display
+    }
+
+a {
+   font-weight: bold;
+    color: gray; 
+    text-decoration: none
+}
+html{
+    font-family: Arial;
+    font-size: 1.25;
+}
+p{ 
+    background-color: rgba(0, 0, 0, 0.5);
+    color: #fffff;
+    font-size: 1em;
+}
+h1, h2, h3 {
+    font-family: impact;
+}
+h1 { 
+    font-size: 72px 
+    font-weight: normal;
+}
+h2 {
+    font-variant: small-caps;
+}
+
+img {
+    width: 100vw;
+    height: 100vh;
+    }
+
+section .red {
+    background-color: red;
+    }
+    section 
+
+    li.seen {
+        color: silver;
+    }
+    li.unseen {
+        color: red;
+        }
+    
+div#biography a {
+    tex-decoration: none;
+}
+div#biography a:hover {
+     tex-decoration: underline;
+}

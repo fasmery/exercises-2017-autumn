@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>A HTML5 document</title>
+    </head>
+
+    <img src="http://classes.codingbootcamp.cz/assets/classes/1/freeman-portrait.jpg"alt="relative path">
+    <body>
+        Hello, world!
+    </body>
+</html>
