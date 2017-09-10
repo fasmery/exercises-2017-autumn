@@ -1,0 +1,53 @@
+img {
+    float: left;
+    margin: 0 0 1em 1em;
+  }
+
+  .padding {
+    padding: 2px;
+}
+
+* { box-sizing: content-box};
+
+
+img {
+    max-width: 100%;
+height: auto;
+width: 100;
+height: 100;
+overflow: hidden;}
+
+.container {
+    display: flex; /* or inline-flex */
+    flex-direction: row;
+    flex-wrap: wrap;
+    background-color: #21B410A45;
+    width: 100%;
+      height: 100%;
+   }
+  .item {
+      
+      width: 200px;
+      height: 200px;
+      align-self: center;
+      margin: 5px;
+      background-color: #BE3434;
+      flex-shrink: 1;
+  
+  }
+  
+  .item img {
+      width: 100%;
+      height: 100%;
+  }
+
+
+
+box-sizing: border-box;
+width: 100%;
+padding: 5px;
+border-width: 10px
+
+
+@media only screen and (min-width: 1000px) 
+
